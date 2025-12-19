@@ -9,18 +9,18 @@ Data Analyst | Chemical Scientist | Turning Data Into Actionable Insights
  ###
 
 ## 🎯 Mission
-Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action.  
-I aim to bridge the gap between **engineering precision** and **data analytics insight**, helping people and businesses make smarter decisions.  
-Through resilience, creativity, and technical expertise, I strive to leave a legacy of **growth, opportunity, and impact**.
+Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action.
+I aim to bridge the gap between **chemical science** rigor and **data analytics** insight, helping people and businesses make smarter, evidence-based decisions.
+Through resilience, creativity, and scientific expertise, I strive to leave a legacy of growth, opportunity, and impact.
 
 ## 👩‍💻 About Me
-I’m a **data analyst** with an **engineering background** and 3 years of teaching experience at both **primary and secondary levels**.  
-I specialize in uncovering trends, solving problems, and creating compelling data visualizations that drive change.  
+I’m a data analyst with a **chemical science** background and 3 years of teaching experience at both primary and secondary levels.
+I specialize in uncovering trends, solving problems, and creating compelling data visualizations that drive informed decision-making.
 
-With hands-on experience in **SQL, Power BI, Excel**, and **engineering tools**, I bring a unique blend of technical and analytical skills.  
-My journey spans **manufacturing, CNC machining stimulation tools, education, and data analysis**, which gives me a broad perspective when approaching real-world problems.
+With hands-on experience in SQL, Power BI, Excel, and scientific data tools, I bring a strong blend of analytical thinking and scientific reasoning.
+My journey spans laboratory science, industrial processes, education, and data analysis, giving me a well-rounded perspective when tackling real-world problems.
 
-I thrive on continuous learning — from mastering advanced Python scripts for data analysis to designing in FreeCAD and optimizing CNC operations on stimulation tools.
+I thrive on continuous learning — from applying Python for data analysis and statistical modeling to interpreting experimental data, optimizing workflows, and translating complex scientific results into clear, actionable insights.
 
 ## 🛠 Core Skills
 
