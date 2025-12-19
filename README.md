@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Adetunji Favour, and I'm a Data Analyst from Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Cornelius Fiyinfoluwa , and I'm a Data Analyst from Nigeria</h2>
 
-Data Analyst | Engineering Student  | Educator | Turning Data Into Actionable Insights
+Data Analyst | Chemical Scientist | Turning Data Into Actionable Insights
 
 ###
 
- <div align="left"> <a href="https://www.linkedin.com/in/favouradetunji" target="_blank"> <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=5A6783&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo" /> </a> <a href="mailto:adetunjifavourtech2020@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=5A6783&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo" /> </a> <a href="https://wa.link/t164of" target="_blank"> <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp logo" /> </a> </div> 
+ <div align="left"> <a href="https://www.linkedin.com/in/favouradetunji" target="_blank"> <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=5A6783&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo" /> </a> <a href="mailto:adetunjifavourtech2020@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=5A6783&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo" /> </a> <a href="https://wa.link/ystyqi" target="_blank"> <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp logo" /> </a> </div> 
 
  ###
 
