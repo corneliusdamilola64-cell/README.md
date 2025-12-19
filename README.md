@@ -40,13 +40,6 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
   - Data Storytelling
   - Dashboard Development
 
-- **Engineering & Technical Skills:**
-  - FreeCAD
-  - Lathe CNC stimulation
-  - Milling CNC stimulation 
-  - Technical Drawings & 3D Modelling
-  - Manufacturing Process Analysis
-
 - **Productivity & Collaboration Tools:**
   - Microsoft Word
   - Microsoft Excel
@@ -76,12 +69,10 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
 - Use data analytics to solve **manufacturing**, **business**, and **education** challenges.
 - Support **strategic decision-making** through actionable insights.
 - Empower others through **inclusive data-driven solutions**.
-- Merge my **engineering expertise** with data analytics to improve operational efficiency.
 
 ## ✅ Services
 - **Data Analysis**: Cleaning, transforming, and analyzing data to generate actionable insights.
 - **Dashboard Development**: Building interactive Power BI and Excel dashboards.
-- **Engineering Support**: CNC operation optimization, technical design in FreeCAD.
 - **Teaching:** I can teach Mathematics, Physics, Further-mathematics at the Secondary level.
 
 I’m looking forward to collaborating on projects in my areas of expertise — while staying open to exploring new domains. Together, we can build impactful solutions. Let’s connect! 🌍
