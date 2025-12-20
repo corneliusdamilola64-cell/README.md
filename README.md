@@ -61,9 +61,9 @@ I thrive on continuous learning — from applying Python for data analysis and s
     - Zoom & Microsoft Teams
 
 ## 📚 Data Analytics Projects
-- [**SQL Projects**](https://github.com/favour-ui/SQL-Project): This repository is for all project done on Mysql.
-- [**Power BI Dashboards**](https://github.com/favour-ui/PowerBi-Project): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
-- [**Excel Data Analysis**](https://github.com/favour-ui/Excel-Project): This repository is for all project done on Excel(Sales trend analysis, manufacturing defect tracking, and reporting).
+- [**SQL Projects**](): This repository is for all project done on sql Server.
+- [**Power BI Dashboards**](): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
+- [**Excel Data Analysis**](): This repository is for all project done on Excel(Sales trend analysis, manufacturing defect tracking, and reporting).
 
 ## 🎯 Professional Goals
 - Use data analytics to solve **manufacturing**, **business**, and **education** challenges.
