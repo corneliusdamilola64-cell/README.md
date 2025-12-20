@@ -84,5 +84,5 @@ I’m looking forward to collaborating on projects in my areas of expertise — 
 💬 [**WhatsApp Business**](https://wa.link/ystyqi)
 
 ## 🎯 Fun Fact
-When I’m not analyzing data, I’m exploring academics works — merging my passion for engineering and business.
+When I’m not analyzing data, I’m exploring academics works — merging my passion for Chemical Research and business.
 
