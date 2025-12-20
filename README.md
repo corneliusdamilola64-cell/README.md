@@ -25,7 +25,7 @@ I thrive on continuous learning — from applying Python for data analysis and s
 ## 🛠 Core Skills
 
 - **Data Analysis:**
-  - MySQL
+  - SQL Server
   - Descriptive Statistics
   - Data Cleaning & Transformation
   - Data Validation
